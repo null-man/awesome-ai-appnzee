@@ -54,6 +54,6 @@ This repository is a community-driven effort, and we welcome contributions from 
 | 39 | [PromptImage](https://promptimage.cloud) | Free AI image & video studio with prompt library; freemium signup credits, no card. |
 | 40 | [GrokVideo Studio](https://grokvideogenerator.dev) | Independent text/image-to-video via Grok Imagine API (not affiliated with xAI/X); free trial. |
 | 41 | [TeslaWraps](https://teslawraps.design) | Free browser Tesla Paint Shop wrap editor; core editing + PNG export free, no account. |
-| 40 | [Alors On Danse Video Maker](https://alorsondansevideo.com) | Independent text/image-to-video via Grok Imagine API (not affiliated with xAI/X); free trial. |
-| 40 | [Bad Times AI](https://badtimesai.dev) | Independent text/image-to-video via Grok Imagine API (not affiliated with xAI/X); free trial. |
-| 40 | [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Independent text/image-to-video via Grok Imagine API (not affiliated with xAI/X); free trial. |
+| 40 | [Alors On Danse Video Maker](https://alorsondansevideo.com) | Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok) |
+| 40 | [Bad Times AI](https://badtimesai.dev) | Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99) |
+| 40 | [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99) |
